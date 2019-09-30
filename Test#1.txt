@@ -1,2 +1,7 @@
+<<<<<<< .mine
 CreatedField
+=======
+CreatedField
+>>>>>>> .theirs
 Dev#2 Mofified Code
+I have added Code
